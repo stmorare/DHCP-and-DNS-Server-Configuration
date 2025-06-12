@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.26100.1742]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\alicejohnson>nslookup dc-00.mydomain.local
+168.192.in-addr.arpa
+        primary name server = prisoner.iana.org
+        responsible mail addr = hostmaster.root-servers.org
+        serial  = 1
+        refresh = 604800 (7 days)
+        retry   = 60 (1 min)
+        expire  = 604800 (7 days)
+        default TTL = 604800 (7 days)
+Server:  UnKnown
+Address:  192.168.10.126
+
+Name:    dc-00.mydomain.local
+Address:  192.168.10.126
