@@ -1,4 +1,4 @@
-# DNS and DHCP Configuration Project
+# DNS and DHCP Configuration
 
 ## Overview
 This project configures DHCP and DNS services on DC-00 to automate IP address assignment and provide name resolution for the `mydomain.local` domain. 
