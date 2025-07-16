@@ -107,29 +107,3 @@ functionality on the Windows 11 client and FS-01. The process is documented and 
      git commit -m "Completed DNS and DHCP Configuration Project"
      git remote add origin https://github.com/your-username/DNS-and-DHCP-Configuration-Project.git
      git push -u origin main
-     ```
-   - **README.md**:
-     ```markdown
-     # DNS and DHCP Configuration Project
-
-     ## Overview
-     This project configures DHCP and DNS services on DC-00 to manage IP allocation and name resolution for `mydomain.local`.
-
-     ## Objectives
-     - Installed DHCP and DNS roles on DC-00.
-     - Configured a DHCP scope for 192.168.10.0/24.
-     - Set up DNS for AD integration and name resolution.
-     - Verified on Windows 11 client and FS-01.
-
-     ## Steps
-     - Installed DHCP and DNS roles.
-     - Configured DNS with AD integration.
-     - Set up DHCP scope and options.
-     - Tested IP assignment and DNS resolution.
-
-     ## Tools
-     - Windows Server 2025, Windows 11, Server Manager, DHCP Console, DNS Manager, Git Bash.
-
-     ## Acknowledgments
-      - Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
-      -	Collaborated with Claude Sonnet 4, built by Anthropic, for expert guidance and assistance in completing this project.
