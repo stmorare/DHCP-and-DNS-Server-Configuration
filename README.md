@@ -95,8 +95,7 @@ functionality on the Windows 11 client and FS-01. The process is documented and 
 1. **Screenshots**:
    - DHCP scope configuration in DHCP console.
    - DNS records in DNS Manager.
-   - `ipconfig /all` output on client and FS-01.
-   - Ping results from client.
+   
 2. **GitHub Upload**:
    - Create repository `DNS-and-DHCP-Configuration-Project`.
    - **Git Bash**:
