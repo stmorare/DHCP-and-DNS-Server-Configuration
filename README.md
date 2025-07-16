@@ -133,7 +133,3 @@ functionality on the Windows 11 client and FS-01. The process is documented and 
      ## Acknowledgments
       - Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
       -	Collaborated with Claude Sonnet 4, built by Anthropic, for expert guidance and assistance in completing this project.
-
-
-
-
