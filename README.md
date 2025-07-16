@@ -108,4 +108,7 @@ functionality on the Windows 11 client and FS-01. The process is documented and 
      git remote add origin https://github.com/your-username/DNS-and-DHCP-Configuration-Project.git
      git push -u origin main
 3. **Acknowledgements**:
+   - Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
+   - Collaborated with Claude Sonnet 4, built by Anthropic, for expert guidance and assistance in completing this project.
+
   
